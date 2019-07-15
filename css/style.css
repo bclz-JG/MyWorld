@@ -373,6 +373,59 @@ p.stats-info {
 }
 /*-- //Stats --*/
 
+/* life-style */
+.life_books {
+    background: url(../images/g1.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height:400px;
+	padding: 0;
+}
+.life_games {
+    background: url(../images/g2.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height:400px;
+	padding: 0;
+}
+.life_writting {
+    background: url(../images/g3.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height:400px;
+	padding: 0;
+}
+.life_lan {
+    background: url(../images/g4.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height:400px;
+	padding: 0;
+}
+/* life-style */
+
+
+
+
+
+
+
+
+
+
+
 /*-- cruise --*/
 .cruise-w3-agile-left {
     background: url(../images/s1.jpg) no-repeat 0px 0px;
