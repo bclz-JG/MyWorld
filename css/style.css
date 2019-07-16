@@ -718,17 +718,38 @@ label.cru {
 	background-size: cover !important;
 }
 .gal-w3l img {
-    width:100%!important;
+    width:100%;
 }
 .gal-w3l {
-    padding-left:5px!important;
-    padding-right:5px!important;
+	/* display: inline; */
+	/* display: inline-block; */
+	/* float: left; */
+   /* padding-left:5px!important;
+    padding-right:5px!important; */
+	width: auto;
+	height: auto;
     margin-bottom:4px;
+}
+.life-style {
+	float:left;
+	vertical-align: center;
+	/* position: relative; */
+}
+.agileits-img {
+	width: 40%;
+	height: 40%;
+}
+.life-text p {
+	position: ;
+	width: 100%;
 }
 #gallery {
     background: #f4f4f4;
 }
 .gallery_gds {
+	display: grid;
+	grid-auto-columns: 1;
+	grid-auto-rows: 4;
     margin-top: 3em;
 }
 /*-- //img-hover-effect --*/  
