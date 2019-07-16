@@ -732,7 +732,7 @@ label.cru {
 }
 .life-style {
 	float:left;
-	vertical-align: center;
+	/* vertical-align: center; */
 	/* position: relative; */
 }
 .agileits-img {
@@ -740,11 +740,19 @@ label.cru {
 	height: 40%;
 }
 .life-text p {
-	position: ;
+	font-size: 20px;
 	width: 100%;
 }
 #gallery {
     background: #f4f4f4;
+}
+#gallery p {
+	font-size: inherit;
+	text-indent:2em;
+	word-break:break-word;
+}
+#gallery h3 {
+	text-indent: 2em;
 }
 .gallery_gds {
 	display: grid;
