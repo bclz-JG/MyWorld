@@ -20,7 +20,9 @@ html.swipebox-html.swipebox-touch {
   -ms-user-select: none;
   user-select: none;
 }
-
+#register-block {
+	/* background-color: rgba(0,0,0,0.2); */
+}
 #swipebox-container {
   position: relative;
   width: 100%;
