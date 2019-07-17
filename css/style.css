@@ -783,11 +783,13 @@ div#contact {
 .login-form.banner-posit {
     width: 62%;
     margin: 0 auto;
-	background: #ffffff4a none repeat scroll 0 0;
+	background: #666666 none repeat scroll 0 0;
     padding: 2em;
+	background-color: rgba(66,66,66,0.4);
+	/* opacity: 0.2; */
 }
 .login-form h3 {
-    color: #0bedff;
+    color: #000;
     text-transform: uppercase;
     font-size: 1.3em;
     margin: 8px 0;
@@ -847,7 +849,7 @@ select.ship-sel {
 }
 .login-form input[type="submit"]:hover,.agile_main_grid_left2_grid_bottom a:hover {
     background:	#03b9f8;
-	color: #fff;
+	color: #000;
 	transition:.5s ease-in;
 	-webkit-transition:.5s ease-in;
 	-moz-transition:.5s ease-in;
@@ -880,7 +882,7 @@ option{
   color: #fff;
 }
 .w3-contact-head h3 {
-    color: #fff;
+    color: #000;
 }
 /* //contact form */
 /*--modal--*/
